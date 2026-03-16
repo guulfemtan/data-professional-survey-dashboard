@@ -65,8 +65,7 @@ Participants reported higher happiness levels regarding work-life balance compar
 
 A detailed explanation of this project is available on Medium:
 
-Medium Article:  
-(ADD YOUR MEDIUM LINK HERE)
+[Medium Article:  ](https://medium.com/@gulfemkiziltan/power-bi-dashboard-insights-from-a-data-professional-survey-4437b4822ee1)
 
 ---
 
@@ -75,7 +74,7 @@ Medium Article:
 This project was inspired by the following tutorial:
 
 Alex The Analyst – Power BI Data Professional Survey Project  
-https://www.youtube.com/
+[https://www.youtube.com/](https://www.youtube.com/watch?v=pixlHHe_lNQ)
 
 ---
 
